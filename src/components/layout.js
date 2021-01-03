@@ -1,6 +1,8 @@
 import React from "react"
-import PropTypes from "prop-types"
+import PropTypes from "prop-types" //propsの型をチェックする
 import 'bootstrap/dist/css/bootstrap.min.css';
+
+// layout.jsは元々あるファイル
 
 const Layout = ({ children }) => {
 
